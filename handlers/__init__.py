@@ -1,0 +1,1 @@
+#hub_app_controller
